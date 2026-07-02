@@ -1,6 +1,6 @@
 ---
 name: scientific-paper-course-reader
-description: course-style close reading for scientific papers, especially full paper pdfs. use when the user asks chatgpt to explain, teach,精读,拆解, summarize, analyze, or create a learning-oriented reading guide for a research paper. optimized for beginner graduate students entering a field, with adaptive sectioning, logical formula explanations, figure reading, experiment analysis, innovation/limitation judgment, and adaptive-depth course-style output instead of mechanical chapter translation.
+description: course-style close reading for scientific papers, especially full paper pdfs. use when the user asks LLM to explain, teach,精读,拆解, summarize, analyze, or create a learning-oriented reading guide for a research paper. optimized for beginner graduate students entering a field, with adaptive sectioning, logical formula explanations, figure reading, experiment analysis, innovation/limitation judgment, and adaptive-depth course-style output instead of mechanical chapter translation.
 ---
 
 # 科研论文课程式精读
