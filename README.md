@@ -214,9 +214,9 @@ scientific-paper-course-reader/
 - 创新与局限模板；
 - 最终知识地图模板。
 
-### `agents/openai.yaml`
+### `agents/skill.yaml`
 
-ChatGPT Skill 的界面元数据，包括显示名称、简介、图标和颜色。
+Skill 的界面元数据，包括显示名称、简介、图标和颜色。
 
 ---
 
